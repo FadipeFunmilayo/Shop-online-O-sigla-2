@@ -1,0 +1,57 @@
+
+    .body {
+    align-content: center;
+    padding: 52px 38px 392px;
+    background-color: rgb(232, 240, 241);;
+    width: 537px;
+    margin: auto;
+    
+    }
+    .circle {
+      height: 10px;
+      width: 12px;
+      background-color: white;
+      border-radius: 50%;
+      border: 1px solid tomato;
+      float: left;
+      margin-top: 13px;
+    }
+    .info {
+      float: left;
+      font-size: 9px;
+    }
+ 
+    .article {
+    float: left;
+    padding: 18px 50px 88px;
+    background-color: white;
+    width: 206px;
+  }
+    .text {
+      font-size: 6px;
+    }
+    .pro {
+      font-size: 15px;
+      padding-left: 20px;
+      margin-top: 63px;
+    
+
+    }
+    input {
+      padding: 0px 25px 0px;
+      border-radius: 25px;
+      background: white;
+      color: black;
+      font-size: 8px;
+      margin-top: 26px;
+      border: 2px solid purple;
+    }
+       
+    img {
+    
+    height: 308px;
+    float: left;
+    width: 231px;
+
+  }
+  
